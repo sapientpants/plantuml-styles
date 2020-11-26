@@ -2,8 +2,7 @@
 @startuml
 
 ' Load preset styles.
-!define STYLEPATH .
-!include STYLEPATH/style-presets.iuml
+!include https://raw.githubusercontent.com/sapientpants/plantuml-styles/main/style-presets.iuml
 
 ' Color Definition
 ' Choose the style you want by applying them here.
