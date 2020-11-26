@@ -5,8 +5,7 @@ Shamelessly taken from https://gist.github.com/jerieljan/4c82515ff5f2b2e4dd5122d
 ```plantuml
 @startuml
     'General Defaults
-    !define BASEPATH ..
-    !include BASEPATH/globals/stylesheet.iuml
+    !include https://raw.githubusercontent.com/sapientpants/plantuml-styles/main/stylesheet.iuml
     
     ...
 @enduml
